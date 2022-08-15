@@ -8,7 +8,7 @@ As métricas pedidas no desafio eram: S2D pelo tempo, quantidade de veículos di
 
 Para incrementar a análise decidi fazer as seguintes métricas: GMV bruto, GMV por mês, Ticket Médio e Ticket Médio por mês.
 
-Para realizar este desafio eu utilizei a ferramente Microsoft Power BI. Neste diretório você poderá encontrar o resultado do Dashboard no formado png, pdf, pbit e pbix, bem como a base de dados e os recursos visuais que utilizei. Infelizmente não foi possível postar na web por conta das permissões do e-mail estudantil.
+Para realizar este desafio eu utilizei a ferramente Microsoft Power BI. Neste diretório você poderá encontrar o resultado do Dashboard no formado png, pdf, pbit e pbix, bem como a base de dados e os recursos visuais que utilizei. Visualização web neste [link](https://app.powerbi.com/view?r=eyJrIjoiYTZjYWM5YjAtOTQyMy00MTc0LTkzMmYtMDg1NTZjMmQxMDIyIiwidCI6ImI4YmM1YTRkLTNmNjItNDg2Yi1iNTdkLTY3N2NkOTZlMDgyMyJ9)
 
 Este é o primeiro Dashboard que faço do zero sem nenhum tipo de acompanhamento, críticas construtivas são bem-vindas! 
 Caso queira entrar em contato, basta me encontrar no [LinkedIn](https://www.linkedin.com/in/emanuelle-gomes-de-souza/)
